@@ -1,8 +1,7 @@
 # My Friend John
 This is a cryptography challenge wherein you have to crack the passwords of the zip files using tools. In this one, I used John the Ripper.
 
-## Challenge Source
-* [ctf-learn](https://ctflearn.com/challenge/1135)
+**Challenge Source:** [ctf-learn](https://ctflearn.com/challenge/1135)
   
 ### Step 1
 Crack the password for **use-rockyou.zip**
